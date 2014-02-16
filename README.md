@@ -1,4 +1,4 @@
-firefoxapp
-==========
+Clipper
+-------
+    An easy to use video editor for mobile devices.
 
-Firefox app for OSDG
